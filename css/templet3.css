@@ -110,15 +110,14 @@ ul {
 }
 /* home */
 .home {
-  display: flex;
   padding: 70px 200px;
   padding-bottom: 150px;
   margin: 30px 40px;
   color: #353535;
 }
-.home h1 {
-  font-size: 70px;
-  line-height: 1.4;
+.home .container {
+  display: flex;
+  align-items: center;
 }
 .home h2 {
   font-size: 50px;
