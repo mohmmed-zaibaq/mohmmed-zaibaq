@@ -141,6 +141,52 @@ ul {
 .home .img  {
   margin-left: 100px;
 }
+/* section title */
+.service {
+  background-color: #f9f9f9;
+  margin-bottom: 100px;
+}
+.section-header {
+  margin-left: 100px;
+  margin-bottom: 5rem;
+  color: #353535;
+  font-size: 30px;
+}
+.section-title {
+  font-size: 2rem;
+  text-transform: capitalize;
+}
+.line {
+  width: 100px;
+  height: 4px;
+  display: block;
+  background-color: #2196f3;
+}
+.service-item {
+  width: 50%;
+}
+.service-item-des {
+  color: #353535;
+  padding-right: 30px;
+  line-height: 1.4;
+  font-size: 30px;
+  text-transform: initial;
+  margin-bottom: 20px;
+  margin-left: 150px;
+}
+.service-list li {
+  margin-bottom: 5px;
+  margin-left: 150px;
+  font-size: 20px
+}
+.service-list li i {
+  border: 4px solid #2196f3;
+  color: #2196f3;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 20px;
+  font-size: 20px;
+}
 /* footer */
 .final {
   background: #353535;
