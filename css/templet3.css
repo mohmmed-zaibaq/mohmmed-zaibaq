@@ -147,7 +147,6 @@ ul {
   margin-bottom: 100px;
 }
 .section-header {
-  margin-left: 100px;
   margin-bottom: 5rem;
   color: #353535;
   font-size: 30px;
@@ -172,11 +171,9 @@ ul {
   font-size: 30px;
   text-transform: initial;
   margin-bottom: 20px;
-  margin-left: 150px;
 }
 .service-list li {
   margin-bottom: 5px;
-  margin-left: 150px;
   font-size: 20px
 }
 .service-list li i {
