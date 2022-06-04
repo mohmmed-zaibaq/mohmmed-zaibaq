@@ -119,6 +119,10 @@ ul {
   display: flex;
   align-items: center;
 }
+.home h1 {
+  font-size: 70px;
+  line-height: 1.4;
+}
 .home h2 {
   font-size: 50px;
   line-height: 1.4;
@@ -137,7 +141,7 @@ ul {
   color: #fafafa;
   margin-top: 25px;
 }
-.home .img  {
+.home .img {
   margin-left: 100px;
 }
 /* section title */
